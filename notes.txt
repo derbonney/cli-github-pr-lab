@@ -1,0 +1,1 @@
+A pull request is a request to merge changes from one branch into another, usually into main. It lets teammates review the code, leave comments, and approve it before it becomes part of the official project.
